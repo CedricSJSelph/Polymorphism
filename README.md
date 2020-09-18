@@ -12,15 +12,18 @@ In this lab you will practice creating a simple Java program designed to make us
 
 ## Unit Test
 
-Select a partner from your tribe; You will each write tests for the requirements below, but your partner must develop against your tests and vice versa. Be sure to use the `com.dtcc.polypets` package for your Pet classes to allow tests to execute properly.
+Select a partner from your tribe; You will each write tests for the requirements below, but your partner must develop against your tests and vice versa. 
+Be sure to use the `com.dtcc.polypets` package for your Pet classes to allow tests to execute properly.
 
-**Hint:** *An easy way to achieve this is for each partner to set up a GitHub repository for this lab, and add the other partner as a collaborator with write access (in the repository settings).*
+**Hint:** *An easy way to achieve this is for each partner to set up a GitHub repository for this lab, 
+          and add the other partner as a collaborator with write access (in the repository settings).*
 
 ## Instructions
 
 ### Part 1: 
 
-Create a program that asks the user how many pets they have. Once you know how many pets they have, ask them what kind of pet each one is, along with each pet's name. For now your program should just hold onto the user input and print out the list at the end; we'll modify this in part 3.
+Create a program that asks the user how many pets they have. Once you know how many pets they have, ask them what kind of pet each one is, along with each pet's name. 
+For now your program should just hold onto the user input and print out the list at the end; we'll modify this in part 3.
 
 ### Part 2: 
 
@@ -38,3 +41,6 @@ Use must write your own tests! **Remember TDD!**
 
 Modify your program from part 1 to use the Pet class and its subclasses. Keep a list of the pets your user lists and at the end of the program print out a list of their names and what they say when they speak.
 
+### Cedric's Tasks:
+
+None hes so dope.
