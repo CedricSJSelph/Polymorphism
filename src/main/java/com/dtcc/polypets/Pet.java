@@ -1,16 +1,14 @@
 package com.dtcc.polypets;
 import java.util.*;
 
-
 public class Pet {
 
     private String name;
-    private String speak;
+//    private String speak;
 
     public Pet(String name){
         this.name = name;
     }
-
 
     //Name getters
     public String getName(){
@@ -18,9 +16,9 @@ public class Pet {
     }
 
     public String getSpeak(){
-        return speak;
+        //return speak;
+        return "i'm a mute";
     }
-
 
 //class basicPets extends Pet{
 //ArrayList<String> pets = new ArrayList<String>();
